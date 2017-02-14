@@ -2,4 +2,4 @@
 
 const greet = require('./lib/greet.js');
 
-greet.hello('anna');
+console.log(greet.hello('anna'));
